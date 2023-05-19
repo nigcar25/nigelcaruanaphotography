@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nigel Caruana Photography - Personal Work</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Overview</a></li>
+            <li><a href="personal-work.html">Personal Work</a></li>
+            <li><a href="info.html">Info</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Personal Work</h1>
+        <p>Your tagline for this section goes here.</p>
+    </header>
+    <section>
+        <h2>Portraits</h2>
+        <!-- Your images for this section go here -->
+    </section>
+    <section>
+        <h2>Professional</h2>
+        <!-- Your images for this section go here -->
+    </section>
+    <section>
+        <h2>Landscapes</h2>
+        <!-- Your images for this section go here -->
+    </section>
+    <section>
+        <h2>Travel</h2>
+        <!-- Your images for this section go here -->
+    </section>
+    <section>
+        <h2>Architecture</h2>
+        <!-- Your images for this section go here -->
+    </section>
+    <script src="js/script.js"></script>
+</body>
+</html>
